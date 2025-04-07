@@ -3,16 +3,16 @@
     "version": 1,
     "screens": [
         {
-            "width": 1080,
-            "height": 1240,
+            "width": 1240,
+            "height": 1080,
             "dpi": 3.92,
             "presentation": {
                 "overlayPath": "Overlays/OverlayPSG1.png",
                 "borderSize": {
                     "x": 100.0,
-                    "y": 113.0,
+                    "y": 100.0,
                     "z": 90.0,
-                    "w": 90.0
+                    "w": 70.0
                 }
             }
         }
