@@ -1,3 +1,4 @@
+#if UNITY_EDITOR || UNITY_ANDROID || PACKAGE_DOCS_GENERATION
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.Layouts;
 using UnityEngine.InputSystem.LowLevel;
@@ -136,3 +137,5 @@ namespace PlaySolanaSdk {
 
     }
 }
+
+#endif

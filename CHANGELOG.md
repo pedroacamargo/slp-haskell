@@ -17,3 +17,11 @@
 ## Unity Validator Fix
 
 - Fix: Unity Asset 100% validated (namespace added)
+
+# [1.0.3] 2025-04-07
+
+- Fix: Viewport Width and Height changes
+
+# [1.0.4] 2025-04-14
+
+- Fix: Error when building for WebGL
